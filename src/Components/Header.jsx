@@ -1,11 +1,11 @@
 import React from 'react';
-import { Container, Nav, NavDropdown, Navbar, Form, FormControl, Button } from 'react-bootstrap';
+import { Container, Nav, Navbar, Form, FormControl, Button } from 'react-bootstrap';
 
 const Header = () => {
     return (
         <Navbar expand="lg" className="bg-dark">
           <Container>
-            <Navbar.Brand className='text-white' href="/">Twitch</Navbar.Brand>
+            <Navbar.Brand className='text-white' href="/">Dit Wallah !</Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
               <Nav className="me-auto">
