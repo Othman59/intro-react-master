@@ -1,4 +1,5 @@
-import authService from '../Services/auth'; // Remplacez 'path/to/authService' par le chemin correct vers le service d'authentification
+import authService from '../Services/auth'; 
+// Remplacez 'path/to/authService' par le chemin correct vers le service d'authentification
 
 // Fonction pour effectuer la connexion de l'utilisateur
 const login = async (username, password) => {
